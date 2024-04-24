@@ -1,0 +1,2 @@
+deleteAlternative(head);
+    
